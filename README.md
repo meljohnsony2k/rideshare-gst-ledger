@@ -1,6 +1,6 @@
 # Rideshare GST Ledger
 
-An offline tool I built to turn raw bank statement exports into **weekly GST working papers for my BAS** as an Uber and DiDi driver in Australia.
+An offline tool I built to turn raw bank statement exports into **weekly GST working papers for my BAS** as an CPV Rideshare driver in Australia.
 
 Before this, I sorted every fuel, toll and parking transaction by hand in a spreadsheet each quarter. Now I drop in the CSV files and get a weekly GST summary in seconds. Anything the tool isn't sure about goes to a review queue, so nothing is silently guessed.
 
